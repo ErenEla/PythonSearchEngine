@@ -15,10 +15,6 @@ print(udacify("dacians"))
 print(udacify("turn"))
 print(udacify("boat"))
 
-
-
-
-
 # Remove the hash, #, from infront of print to test your code.
 
 #print udacify('dacians')
