@@ -36,10 +36,3 @@ print(median(7,8,7))
 
 #print(median(7,8,7))
 #>>> 7
-
-
-
-
-
-
-
