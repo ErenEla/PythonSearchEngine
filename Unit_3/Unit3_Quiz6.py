@@ -1,5 +1,5 @@
 #This code will create a list 
-#that obtains all the links in the page 
+#that contains all the links in the page 
 
 def print_all_links(page):
     link_lists = []
